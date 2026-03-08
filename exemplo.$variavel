@@ -1,0 +1,6 @@
+ <?php
+   $pessoa_fisica="João Antonio";
+   $nomeCompleto="Alfredo Maciel";
+   $valor=123456;
+   $nota=7.5;
+ ?>
